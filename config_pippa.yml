@@ -1,0 +1,4 @@
+cleaning:
+  language_threshold: 0.6
+  # NOTE: Just put the filename here. The path is assumed to be in the "data" folder.
+  pippa_file: "pippa_deduped.jsonl"

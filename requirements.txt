@@ -1,0 +1,5 @@
+ftfy
+langdetect
+pyyaml
+requests
+transformers
